@@ -14,6 +14,7 @@ Authors@R: c(
       person("IBM", comment = "Plex Sans Font", role = c("cph"))
     )
 Maintainer: Bob Rudis <bob@rud.is>
+Contributor: Léo Joubert <joubert.leo@gmail.com>
 Description: A compilation of extra 'ggplot2' themes, scales and utilities, including a 
     spell check function for plot label fields and an overall emphasis on typography. 
     A copy of the 'Google' font 'Roboto Condensed' <https://github.com/google/roboto/> 
